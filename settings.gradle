@@ -1,1 +1,1 @@
-include ':app'
+include ':app', ':base', ':app_shopcart', ':app_address', ':coreapp'
